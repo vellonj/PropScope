@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T10:49:05.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="79NuZe776Y4rQK1uYcUY" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T11:10:00.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="3Bwh1pfgg_eOmP8K1tOv" version="24.2.5" type="github">
   <diagram name="第 1 页" id="Xn6zMkmZ_HhxMQiBBIvG">
-    <mxGraphModel dx="956" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1386" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,22 +24,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1zU7iY3EajEyGAMs0XTv-20" value="C样试产发现问题" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="640" width="100" height="40" as="geometry" />
+          <mxGeometry x="60" y="640" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1zU7iY3EajEyGAMs0XTv-21" value="OTA升级失败率较高" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="160" y="700" width="150" height="30" as="geometry" />
+          <mxGeometry x="190" y="700" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1zU7iY3EajEyGAMs0XTv-22" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1" target="1zU7iY3EajEyGAMs0XTv-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="660" as="sourcePoint" />
+            <mxPoint x="160" y="660" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1zU7iY3EajEyGAMs0XTv-23" value="Nor Flash读写失败" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="160" y="630" width="140" height="30" as="geometry" />
+          <mxGeometry x="190" y="630" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1zU7iY3EajEyGAMs0XTv-24" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1" target="1zU7iY3EajEyGAMs0XTv-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="660" as="sourcePoint" />
+            <mxPoint x="160" y="660" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1zU7iY3EajEyGAMs0XTv-36" value="电源管理芯片通信异常" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
@@ -75,36 +75,44 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1zU7iY3EajEyGAMs0XTv-46" value="厂家更改一批Flash的SFDP参数，跟旧软件不兼容" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="370" y="585" width="310" height="30" as="geometry" />
+          <mxGeometry x="400" y="585" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1zU7iY3EajEyGAMs0XTv-47" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="1zU7iY3EajEyGAMs0XTv-46" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="640" as="sourcePoint" />
+            <mxPoint x="330" y="640" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1zU7iY3EajEyGAMs0XTv-48" value="recovery模式下软重启失败率比较高，因部分代码不开源，需要黑芝麻分析" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="360" y="670" width="430" height="30" as="geometry" />
+        <mxCell id="1zU7iY3EajEyGAMs0XTv-48" value="recovery模式下软重启失败率高" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="400" y="670" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1zU7iY3EajEyGAMs0XTv-49" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="1zU7iY3EajEyGAMs0XTv-48" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="720" as="sourcePoint" />
+            <mxPoint x="340" y="720" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1zU7iY3EajEyGAMs0XTv-50" value="进行修复后，测试12.8W次会出现2次" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="610" y="180" width="240" height="30" as="geometry" />
+        <mxCell id="1zU7iY3EajEyGAMs0XTv-56" value="进行修复后，测试12.8W次会出现2次" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="890" y="210" width="203" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1zU7iY3EajEyGAMs0XTv-51" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="1zU7iY3EajEyGAMs0XTv-50" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="250" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="1zU7iY3EajEyGAMs0XTv-57" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="230" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1zU7iY3EajEyGAMs0XTv-52" value="更换黑芝麻推荐NOR Flash，进行超过3万次压力，暂时没问题" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="730" y="540" width="370" height="30" as="geometry" />
+        <mxCell id="1zU7iY3EajEyGAMs0XTv-58" value="进行修复后，测试1400小时及&lt;div&gt;上海4S店33台导入修复后，暂无挂死，持续观察&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="890" y="380" width="203" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1zU7iY3EajEyGAMs0XTv-53" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="1zU7iY3EajEyGAMs0XTv-52" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="615" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="1zU7iY3EajEyGAMs0XTv-59" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1zU7iY3EajEyGAMs0XTv-61" value="更换黑芝麻推荐NOR Flash，进行超过3万次压力测试，暂时没问题，持续测试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="890" y="550" width="203" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1zU7iY3EajEyGAMs0XTv-62" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="570" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1zU7iY3EajEyGAMs0XTv-64" value="，因部分代码不开源，需要黑芝麻分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="890" y="660" width="203" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1zU7iY3EajEyGAMs0XTv-65" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="670" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
